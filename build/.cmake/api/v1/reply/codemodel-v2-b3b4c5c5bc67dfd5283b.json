@@ -1,0 +1,1095 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "templateFunctionMax",
+					"jsonFile" : "directory-templateFunctionMax-Debug-162e8a7762c8ee1f84e7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "templateFunctionMax",
+					"targetIndexes" : 
+					[
+						27
+					]
+				},
+				{
+					"build" : "overflowException",
+					"jsonFile" : "directory-overflowException-Debug-e8560b3b318d5e5ffd21.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "overflowException",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"build" : "fileClass",
+					"jsonFile" : "directory-fileClass-Debug-9e2c4a5407e2f782a5c6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "fileClass",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "stringFormatting",
+					"jsonFile" : "directory-stringFormatting-Debug-40f42f5d3115bbb3bdfe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "stringFormatting",
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"build" : "stringToInt",
+					"jsonFile" : "directory-stringToInt-Debug-54ab7993258418c9717a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "stringToInt",
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"build" : "buffer",
+					"jsonFile" : "directory-buffer-Debug-4e308b1fb2e23f28eaf7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "buffer",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "templateOverloading",
+					"jsonFile" : "directory-templateOverloading-Debug-2c55b4076689d6202d25.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "templateOverloading",
+					"targetIndexes" : 
+					[
+						28
+					]
+				},
+				{
+					"build" : "styleCasts",
+					"jsonFile" : "directory-styleCasts-Debug-883868a7d17b89640c82.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "styleCasts",
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"build" : "memcpy",
+					"jsonFile" : "directory-memcpy-Debug-2df3b70c8675cc976a7f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "memcpy",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "snprintf",
+					"jsonFile" : "directory-snprintf-Debug-1d131f6e0a765e6def62.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "snprintf",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "dynamicCast",
+					"jsonFile" : "directory-dynamicCast-Debug-ddf897a7db064cf9754f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 11,
+					"source" : "dynamicCast",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "sharedInstances",
+					"jsonFile" : "directory-sharedInstances-Debug-833bd3d0ff806abb5d3f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 12,
+					"source" : "sharedInstances",
+					"targetIndexes" : 
+					[
+						19
+					]
+				},
+				{
+					"build" : "integerPow",
+					"jsonFile" : "directory-integerPow-Debug-ddceac60d394d4800f94.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 13,
+					"source" : "integerPow",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "pureVirtualFunctions",
+					"jsonFile" : "directory-pureVirtualFunctions-Debug-0e8545fc0e821c6778f0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 14,
+					"source" : "pureVirtualFunctions",
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"build" : "encapsulation",
+					"jsonFile" : "directory-encapsulation-Debug-433cbf67853333eadd3a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 15,
+					"source" : "encapsulation",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "publicPrivateInheritance",
+					"jsonFile" : "directory-publicPrivateInheritance-Debug-563ed21113ee4e54247e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 16,
+					"source" : "publicPrivateInheritance",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "inline",
+					"jsonFile" : "directory-inline-Debug-42ec79a6faa774332373.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 17,
+					"source" : "inline",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "fibonacciClass",
+					"jsonFile" : "directory-fibonacciClass-Debug-01f066c3b6c1a34b96c9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 18,
+					"source" : "fibonacciClass",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "constMethods",
+					"jsonFile" : "directory-constMethods-Debug-9d209499d1820d87c1cc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 19,
+					"source" : "constMethods",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "diamondProblem",
+					"jsonFile" : "directory-diamondProblem-Debug-276ae0728cf5c8ef3423.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 20,
+					"source" : "diamondProblem",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "polymorphism",
+					"jsonFile" : "directory-polymorphism-Debug-665af5a1a8936c84fe51.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 21,
+					"source" : "polymorphism",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "deriveFromString",
+					"jsonFile" : "directory-deriveFromString-Debug-763a04f1126c7d7fdf70.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 22,
+					"source" : "deriveFromString",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "cFiles",
+					"jsonFile" : "directory-cFiles-Debug-37f8d969e66a71cf8a21.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 23,
+					"source" : "cFiles",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "mapFind",
+					"jsonFile" : "directory-mapFind-Debug-729aed3c2dd651f6670e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 24,
+					"source" : "mapFind",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "findFirstOF",
+					"jsonFile" : "directory-findFirstOF-Debug-0ff716999d5bfb85bd59.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 25,
+					"source" : "findFirstOF",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "copyItemsToArray",
+					"jsonFile" : "directory-copyItemsToArray-Debug-54b6aba673f2761cfbca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 26,
+					"source" : "copyItemsToArray",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "sort",
+					"jsonFile" : "directory-sort-Debug-2586a0470e933d957357.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 27,
+					"source" : "sort",
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"build" : "strchr",
+					"jsonFile" : "directory-strchr-Debug-0f86faaf27adbf3b2a9d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 28,
+					"source" : "strchr",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "strcpy",
+					"jsonFile" : "directory-strcpy-Debug-a425c6b53530ec20b432.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 29,
+					"source" : "strcpy",
+					"targetIndexes" : 
+					[
+						23
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "main"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "templateFunctionMax",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						27
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "overflowException",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "fileClass",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "stringFormatting",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "stringToInt",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "buffer",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "templateOverloading",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						28
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "styleCasts",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "memcpy",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "snprintf",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "dynamicCast",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "sharedInstances",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						19
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "integerPow",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						14
+					],
+					"name" : "pureVirtualFunctions",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15
+					],
+					"name" : "encapsulation",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						16
+					],
+					"name" : "publicPrivateInheritance",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						17
+					],
+					"name" : "inline",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						18
+					],
+					"name" : "fibonacciClass",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						19
+					],
+					"name" : "constMethods",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						20
+					],
+					"name" : "diamondProblem",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						21
+					],
+					"name" : "polymorphism",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						22
+					],
+					"name" : "deriveFromString",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						23
+					],
+					"name" : "cFiles",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						24
+					],
+					"name" : "mapFind",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						25
+					],
+					"name" : "findFirstOF",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						26
+					],
+					"name" : "copyItemsToArray",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						27
+					],
+					"name" : "sort",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						28
+					],
+					"name" : "strchr",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						29
+					],
+					"name" : "strcpy",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						23
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 6,
+					"id" : "buffer::@850c0962cff040fb352c",
+					"jsonFile" : "target-buffer-Debug-90bcdc03bc26d2e4cfb3.json",
+					"name" : "buffer",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 23,
+					"id" : "cFiles::@4f77dfafb76e6df513d5",
+					"jsonFile" : "target-cFiles-Debug-524ba50763a462962d9e.json",
+					"name" : "cFiles",
+					"projectIndex" : 23
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "constMethods::@8d4a6b9cc3b383589f8c",
+					"jsonFile" : "target-constMethods-Debug-180370572ee2d3fa42bb.json",
+					"name" : "constMethods",
+					"projectIndex" : 19
+				},
+				{
+					"directoryIndex" : 26,
+					"id" : "copyItemsToArray::@0c0fd489c4b911da2bd1",
+					"jsonFile" : "target-copyItemsToArray-Debug-2485d8c806ab5c9d92d8.json",
+					"name" : "copyItemsToArray",
+					"projectIndex" : 26
+				},
+				{
+					"directoryIndex" : 22,
+					"id" : "deriveFromString::@7367e4b06a2d45cca4cc",
+					"jsonFile" : "target-deriveFromString-Debug-38b10c340630bad8605e.json",
+					"name" : "deriveFromString",
+					"projectIndex" : 22
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "diamondProblem::@8c862bca24c64c595c45",
+					"jsonFile" : "target-diamondProblem-Debug-83f58623ec201a843f7c.json",
+					"name" : "diamondProblem",
+					"projectIndex" : 20
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "dynamicCast::@ace3b9547a22baa2a3d9",
+					"jsonFile" : "target-dynamicCast-Debug-e00c6ba0890d37808735.json",
+					"name" : "dynamicCast",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "encapsulation::@8ee05dec9a80f08ad3e2",
+					"jsonFile" : "target-encapsulation-Debug-0806d6d9db278c42b746.json",
+					"name" : "encapsulation",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "fibonacciClass::@c3dae9c0c54c4d60ba0a",
+					"jsonFile" : "target-fibonacciClass-Debug-14ea855027cf14a40f52.json",
+					"name" : "fibonacciClass",
+					"projectIndex" : 18
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "fileClass::@8a092888670b8f056cce",
+					"jsonFile" : "target-fileClass-Debug-6271beb079d8d203e198.json",
+					"name" : "fileClass",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 25,
+					"id" : "findFirstOF::@6d527ebc7238dc11f871",
+					"jsonFile" : "target-findFirstOF-Debug-0e3c39306b4599295188.json",
+					"name" : "findFirstOF",
+					"projectIndex" : 25
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "inline::@3b59474422cd12429d23",
+					"jsonFile" : "target-inline-Debug-f7897b2f933f8bd5cc86.json",
+					"name" : "inline",
+					"projectIndex" : 17
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "integerPow::@c9c2e73ad4e46beaf194",
+					"jsonFile" : "target-integerPow-Debug-92de58b05bcab5fb6dac.json",
+					"name" : "integerPow",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 24,
+					"id" : "mapFind::@7e07952b7e32a80546f1",
+					"jsonFile" : "target-mapFind-Debug-9c1c43a0a9152856d7db.json",
+					"name" : "mapFind",
+					"projectIndex" : 24
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "memcpy::@b50e4f8cbf5c17ee2dae",
+					"jsonFile" : "target-memcpy-Debug-87b4733ee7d42d83de0e.json",
+					"name" : "memcpy",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "overflowException::@7588dc9a1db68672cb66",
+					"jsonFile" : "target-overflowException-Debug-099285faa3904ede5f62.json",
+					"name" : "overflowException",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "polymorphism::@dad29bda7d7957f9323a",
+					"jsonFile" : "target-polymorphism-Debug-e30133f2c7a5500e54b5.json",
+					"name" : "polymorphism",
+					"projectIndex" : 21
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "publicPrivateInheritance::@73451aad9f01a887dd43",
+					"jsonFile" : "target-publicPrivateInheritance-Debug-d9cd7f938bb455b03bb3.json",
+					"name" : "publicPrivateInheritance",
+					"projectIndex" : 16
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "pureVirtualFunctions::@a7b1de1b1fb825013783",
+					"jsonFile" : "target-pureVirtualFunctions-Debug-27712f9455cc0c766b4b.json",
+					"name" : "pureVirtualFunctions",
+					"projectIndex" : 14
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "sharedInstances::@0319997eaa178fc2aa71",
+					"jsonFile" : "target-sharedInstances-Debug-996639f52558508d426b.json",
+					"name" : "sharedInstances",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "snprintf::@3978f7affacf03999ef5",
+					"jsonFile" : "target-snprintf-Debug-98339ecc47f53beb65a5.json",
+					"name" : "snprintf",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 27,
+					"id" : "sort::@ae7510edab0538a564fb",
+					"jsonFile" : "target-sort-Debug-6dc75e8a080365445e4a.json",
+					"name" : "sort",
+					"projectIndex" : 27
+				},
+				{
+					"directoryIndex" : 28,
+					"id" : "strchr::@a0d9a697dc49a08620bd",
+					"jsonFile" : "target-strchr-Debug-9379acb617a765850c52.json",
+					"name" : "strchr",
+					"projectIndex" : 28
+				},
+				{
+					"directoryIndex" : 29,
+					"id" : "strcpy::@edd5bd23563c3f193e07",
+					"jsonFile" : "target-strcpy-Debug-29c34daecfe12477f97f.json",
+					"name" : "strcpy",
+					"projectIndex" : 29
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "stringFormatting::@4eb13821fbc874ae2f79",
+					"jsonFile" : "target-stringFormatting-Debug-6d3fbbf77491a236cf96.json",
+					"name" : "stringFormatting",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "stringToInt::@a73bd212d1705b8681e5",
+					"jsonFile" : "target-stringToInt-Debug-e5834447451c4d36c989.json",
+					"name" : "stringToInt",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "styleCasts::@fb4649db900d5f1ffb93",
+					"jsonFile" : "target-styleCasts-Debug-11732ac9c25e5817aec4.json",
+					"name" : "styleCasts",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "templateFunctionMax::@e3e34d447f38685b71d8",
+					"jsonFile" : "target-templateFunctionMax-Debug-be32c95a2a6a08a1eea2.json",
+					"name" : "templateFunctionMax",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "templateOverloading::@473f4dd30836ef4cbdb5",
+					"jsonFile" : "target-templateOverloading-Debug-8ccfdea5a5f529d27744.json",
+					"name" : "templateOverloading",
+					"projectIndex" : 7
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/chris/Desktop/c++/build",
+		"source" : "/home/chris/Desktop/c++"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

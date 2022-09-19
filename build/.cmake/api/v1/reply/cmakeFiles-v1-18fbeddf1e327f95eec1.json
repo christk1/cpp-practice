@@ -1,0 +1,223 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.22.1/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.22.1/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "templateFunctionMax/CMakeLists.txt"
+		},
+		{
+			"path" : "overflowException/CMakeLists.txt"
+		},
+		{
+			"path" : "fileClass/CMakeLists.txt"
+		},
+		{
+			"path" : "stringFormatting/CMakeLists.txt"
+		},
+		{
+			"path" : "stringToInt/CMakeLists.txt"
+		},
+		{
+			"path" : "buffer/CMakeLists.txt"
+		},
+		{
+			"path" : "templateOverloading/CMakeLists.txt"
+		},
+		{
+			"path" : "styleCasts/CMakeLists.txt"
+		},
+		{
+			"path" : "memcpy/CMakeLists.txt"
+		},
+		{
+			"path" : "snprintf/CMakeLists.txt"
+		},
+		{
+			"path" : "dynamicCast/CMakeLists.txt"
+		},
+		{
+			"path" : "sharedInstances/CMakeLists.txt"
+		},
+		{
+			"path" : "integerPow/CMakeLists.txt"
+		},
+		{
+			"path" : "pureVirtualFunctions/CMakeLists.txt"
+		},
+		{
+			"path" : "encapsulation/CMakeLists.txt"
+		},
+		{
+			"path" : "publicPrivateInheritance/CMakeLists.txt"
+		},
+		{
+			"path" : "inline/CMakeLists.txt"
+		},
+		{
+			"path" : "fibonacciClass/CMakeLists.txt"
+		},
+		{
+			"path" : "constMethods/CMakeLists.txt"
+		},
+		{
+			"path" : "diamondProblem/CMakeLists.txt"
+		},
+		{
+			"path" : "polymorphism/CMakeLists.txt"
+		},
+		{
+			"path" : "deriveFromString/CMakeLists.txt"
+		},
+		{
+			"path" : "cFiles/CMakeLists.txt"
+		},
+		{
+			"path" : "mapFind/CMakeLists.txt"
+		},
+		{
+			"path" : "findFirstOF/CMakeLists.txt"
+		},
+		{
+			"path" : "copyItemsToArray/CMakeLists.txt"
+		},
+		{
+			"path" : "sort/CMakeLists.txt"
+		},
+		{
+			"path" : "strchr/CMakeLists.txt"
+		},
+		{
+			"path" : "strcpy/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/chris/Desktop/c++/build",
+		"source" : "/home/chris/Desktop/c++"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
